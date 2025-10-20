@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "myheader.h"
+#include "mylib.h"
 
 int main() {
     int choice, num;

@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "myarray.h"
+#include "arraylib.h"
 
 int main(void) {
     int n, value;

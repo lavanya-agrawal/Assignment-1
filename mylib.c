@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <math.h>
-#include "myheader.h"
+#include "mylib.h"
 
 
 int reverseDigits(int n) {

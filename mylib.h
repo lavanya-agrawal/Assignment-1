@@ -1,5 +1,5 @@
-#ifndef MYHEADER_H
-#define MYHEADER_H
+#ifndef MYLIB_H
+#define MYLIB_H
 
 int checkArmstrong(int num);
 int checkAdams(int num);

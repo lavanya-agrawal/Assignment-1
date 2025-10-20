@@ -1,5 +1,5 @@
-#ifndef MYARRAY_H
-#define MYARRAY_H
+#ifndef ARRAYLIB_H
+#define ARRAYLIB_H
 
 int findMaxIndex(int arr[], int size);
 int findMinIndex(int arr[], int size);
